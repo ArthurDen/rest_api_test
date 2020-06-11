@@ -1,17 +1,17 @@
 { 
     "name": "The",
-    "surname": "DenMan"
+    "surname": "DenMan",
     "birthday": "11 April"
 }
 
 { 
     "name": "Joe",
-    "surname": "Bow"
+    "surname": "Bow",
     "birthday": "22 June"
 }
 
 { 
     "name": "Susan",
-    "surname": "Boyle"
+    "surname": "Boyle",
     "birthday": "3 March"
 }
