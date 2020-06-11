@@ -1,17 +1,19 @@
+[
 { 
     "name": "The",
     "surname": "DenMan",
     "birthday": "11 April"
 }
-
+,
 { 
     "name": "Joe",
     "surname": "Bow",
     "birthday": "22 June"
 }
-
+,
 { 
     "name": "Susan",
     "surname": "Boyle",
     "birthday": "3 March"
 }
+]
