@@ -1,5 +1,6 @@
-[
-    { 
+{
+  "users": [
+     { 
         "name": "The",
         "surname": "DenMan",
         "birthday": "11 April"
@@ -14,4 +15,8 @@
         "surname": "Boyle",
         "birthday": "3 March"
     }
-]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
