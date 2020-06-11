@@ -3,17 +3,20 @@
      { 
         "name": "The",
         "surname": "DenMan",
-        "birthday": "11 April"
+        "day": "29"
+        "month": "December"
     },
     { 
         "name": "Joe",
         "surname": "Bow",
-        "birthday": "22 June"
+        "day": "14"
+        "month": "September"
     },
     { 
         "name": "Susan",
         "surname": "Boyle",
-        "birthday": "3 March"
+        "day": "4"
+        "month": "July"
     }
   ],
   "profile": {
