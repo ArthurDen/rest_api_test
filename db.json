@@ -3,19 +3,19 @@
      { 
         "name": "The",
         "surname": "DenMan",
-        "day": "29"
+        "day": "29",
         "month": "December"
     },
     { 
         "name": "Joe",
         "surname": "Bow",
-        "day": "14"
+        "day": "14",
         "month": "September"
     },
     { 
         "name": "Susan",
         "surname": "Boyle",
-        "day": "4"
+        "day": "4",
         "month": "July"
     }
   ],
