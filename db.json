@@ -1,0 +1,17 @@
+testBody1 = { 
+    "name": "The",
+    "surname": "DenMan"
+    "birthday": "11 April"
+}
+
+testBody2 = { 
+    "name": "Joe",
+    "surname": "Bow"
+    "birthday": "22 June"
+}
+
+testBody3 = { 
+    "name": "Susan",
+    "surname": "Boyle"
+    "birthday": "3 March"
+}
